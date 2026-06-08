@@ -43,8 +43,4 @@ Leverages a robust `CompanyDbContext` interface within standard API actions. Use
 
 ---
 
-## 🚀 How to Run Locally
 
-1. Clone the repository and navigate to the project directory:
-   ```bash
-   git clone <your-dotnet-repo-url>
