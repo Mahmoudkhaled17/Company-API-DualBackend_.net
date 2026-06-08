@@ -9,7 +9,7 @@ A robust, enterprise-grade enterprise system architecture designed using Microso
 The physical backend layer maps corporate entities through an optimized schema utilizing proper schema mapping and referential structures.
 
 ### Database Schema (ER Diagram)
-*Replace this text with your SQL Server Diagram screenshot!*
+<img width="1312" height="777" alt="Screenshot 2026-06-08 232114" src="https://github.com/user-attachments/assets/ba8a025b-c48d-41af-b570-cd50ad7c430c" />
 
 ### Structural Engineering Highlights:
 - **Strong Referential Coupling**: Multi-layered foreign keys bind `Instructors`, `Trainees`, and `Courses` back to the central `Departments` table.
@@ -34,10 +34,12 @@ Leverages a robust `CompanyDbContext` interface within standard API actions. Use
 ### Feature: Instructor Show All & Show Details View
 
 ### Show All View Execution Screenshot
-*Take a screenshot of your rendered browser table view showing all instructors and place it here!*
+<img width="1907" height="682" alt="image" src="https://github.com/user-attachments/assets/a5bdc229-1de6-4eac-8416-1378f736add3" />
+
 
 ### Individual Detail View Card Screenshot
-*Take a screenshot of your dedicated card view component (e.g., displaying Dr. Ahmed / Dr. Sarah's customized avatar icon/address) and place it here!*
+<img width="1915" height="780" alt="image" src="https://github.com/user-attachments/assets/82a47993-c843-4fcc-b7f1-b459f3014fca" />
+
 
 ---
 
